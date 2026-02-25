@@ -34,7 +34,7 @@ With only the following information- <br><br> "The crime was a ​**murder**​ 
 <p align="center">    <img width="190" height="85" alt="screen3" src="https://github.com/user-attachments/assets/71b18694-1e09-4fed-b9c6-5188dbdf1c59" />
              </p>
 
-<br><br>
+<br>
 <h3 align ="center" >3. Retrieving Interview Transcripts: </h3>
 <p align="center"> After acquiring the id of the two witnesses. I can use that identifying information to locate their transcripts relative to their person_id on the interview table </p>
 
