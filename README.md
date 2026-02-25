@@ -31,7 +31,7 @@ WHERE date = 20180115 AND type = 'murder' AND city = 'SQL City';
 
 
 <h3 align ="center"> 2. Witness Testimony: </h3>
-<p align="center"> After gathering the description of the crime_scene_report for the murder on Jan 15, 2018 in SQL City, I focused on identifying the two witnesses mentioned in the description. To identify the witnesses I queried the information gathered from the description against the person table to filter out and identify the witnesses from the report: </p>
+<p align="center"> Having gathered information from the description column of the crime_scene_report table for the murder on Jan 15, 2018 in SQL City, I query the info gathered from the description column on the person table to filter out and identify the witnesses from the report: </p>
 <p align="center">          <img width="193" height="87" alt="screen2" src="https://github.com/user-attachments/assets/28cf3677-a090-44e7-bdd0-4a1c8b5aa8ea" />
              </p>
              
@@ -55,7 +55,7 @@ WHERE name LIKE 'Annabel%' AND address_street_name = 'Franklin Ave';
 ```
 <br>
 <h3 align ="center" >3. Retrieving Interview Transcripts: </h3>
-<p align="center"> After acquiring the id of the two witnesses. I can use that identifying information to locate their transcripts relative to their person_id on the interview table </p>
+<p align="center"> After acquiring the id of the two witnesses. I can use that identifying information to locate their transcripts relative to their person_id on the interview table. I decide to subquery the transcripts to ensure that on the off chance the ID's within the database change, the information being pulled will still be valid </p>
 
 
 <p align="center">   <img width="827" height="178" alt="screen4" src="https://github.com/user-attachments/assets/610a87a2-9d8c-4762-ba7e-ff38e93240c4" />
