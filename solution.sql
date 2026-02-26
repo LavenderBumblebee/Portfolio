@@ -39,6 +39,6 @@ FROM person p
 JOIN drivers_license d ON p.license_id = d.id
 JOIN get_fit_now_member f ON p.id = f.person_id
 JOIN get_fit_now_check_in c ON f.id = c.membership_id
-WHERE c.check_in_date = 20180109 
+WHERE c.check_in_date LIKE "____0109" 
   AND f.membership_status = 'gold'
   AND d.plate_number LIKE '%H42W%';
