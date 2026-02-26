@@ -1,10 +1,32 @@
  <h1 align = "center">SQL Murder Mystery Project </h1>
 
-<p align="center">
+
+<h3 align ="center">  <i> Project info and links: </i>
+
+ </h3> 
+<p align="center""><a href= "https://github.com/NUKnightLab/sql-mysteries/blob/master/sql-murder-mystery.db"><b> Original Database Source</b></a> 
+  
+
+ <br>
+ <br>
   <a href="https://github.com/LavenderBumblebee/Portfolio/blob/main/solution.sql">
-    <b> The list of SQL queries I used to complete this project </b>
+   <b> SQL queries I used to complete this project </b>  </a>
+   
   </a>
+  
+  <br>
+  <br>
+    Language Used: <ins> SQLite 3 </ins>
 </p>
+
+<br>
+
+
+
+
+
+<p align ="center"><img width="400" height="450" alt="Gemini_Generated_Image_sk0ks5sk0ks5sk0k" src="https://github.com/user-attachments/assets/fa5a448f-0fd6-4369-a07a-1345399409f6") /> </p>
+
 <h2 align = "center"> Project Objective: </h2>
 <br>
 
@@ -102,3 +124,8 @@ WHERE c.check_in_date LIKE '____0109'
 
 <p align="center">  <img width="631" height="83" alt="screen5" src="https://github.com/user-attachments/assets/336d8e67-db71-46de-97a1-9e2e5d53efbd" />  </p>
 
+<hr>
+
+<p align="center">
+  Developed and formatted by <b>Anthony Tran</b> <br>
+</p>
