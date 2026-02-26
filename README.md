@@ -17,7 +17,7 @@ With only the following information- <br><br> "The crime was a ​**murder**​ 
 <br> 
 
 <h3 align ="center"> 1. The Lead: </h3>
-<p align="center"> I filtered on the crime_scene_report table for Jan 15, 2018 in SQL City. I found two witnesses gathered from the description column of the crime_scene_report: 
+<p align="center"> I filtered on the crime_scene_report table for a murder on Jan 15, 2018 in SQL City. I found two witnesses gathered from the description column of the crime_scene_report: 
   one on Northwestern Dr and one named Annabel on Franklin Ave. </p>
 <br>
 <p align="center"><img width="832" height="126" alt="screen1" src="https://github.com/user-attachments/assets/b22849ce-ed9e-4080-96df-a2cc51649e09" />
