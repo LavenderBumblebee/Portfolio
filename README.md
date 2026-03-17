@@ -25,7 +25,7 @@
 
 
 
-<p align ="center"><img width="400" height="450" alt="Gemini_Generated_Image_sk0ks5sk0ks5sk0k" src="https://github.com/user-attachments/assets/fa5a448f-0fd6-4369-a07a-1345399409f6") /> </p>
+<p align ="center"><img width="400" height="450" alt="Murder Mystery Image" src="https://github.com/user-attachments/assets/fa5a448f-0fd6-4369-a07a-1345399409f6") /> </p>
 
 <h2 align = "center"> Project Objective: </h2>
 <br>
