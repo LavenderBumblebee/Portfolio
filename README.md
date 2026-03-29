@@ -1,4 +1,4 @@
- <h1 align = "center">SQL Murder Mystery Project </h1>
+ <h1 align = "center">SQL Data Forensics: The Murder Mystery Case Study </h1>
 
 
 <h3 align ="center">  <i> Project info and links: </i>
