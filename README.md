@@ -30,7 +30,7 @@
 <h2 align = "center"> Project Objective: </h2>
 <br>
 
-This is a digital forensic investigation using SQL to identify a murderer from a fictional city police database.
+This is a digital forensic investigation using SQL to identify a murderer from a city police database.
 With only the following information- <br><br> "The crime was a ​**murder**​ that occurred sometime on ​**Jan.15, 2018​** and that it took place in **​SQL City**" <br><br> -I need to use SQL to find clues to help me identify the culprit of the crime​
 
 <br>
